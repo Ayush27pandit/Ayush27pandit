@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=2ECC71&center=true&vCenter=true&width=650&height=40&lines= Building+RAG+pipelines+that+don't+hallucinate+tax+law;Queues%2C+caches%2C+and+systems+that+survive+production;Node.js+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+BullMQ+%C2%B7+pgvector" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=2ECC71&center=true&vCenter=true&width=650&height=40&lines=Building+RAG+pipelines+that+don't+hallucinate+tax+law;Queues%2C+caches%2C+and+systems+that+survive+production;Node.js+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+BullMQ+%C2%B7+pgvector" alt="typing"/>
 
 <br/>
 
